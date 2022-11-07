@@ -1,0 +1,39 @@
+[
+  {
+    "model": "levelupapi.game",
+    "pk": 1,
+    "fields": {
+      "game_type": 2,
+      "title": "Mass Effect",
+      "maker": "Bioware",
+      "gamer": 1,
+      "number_of_players": 1,
+      "skill_level": 5
+    }
+  },
+
+  {
+    "model": "levelupapi.game",
+    "pk": 2,
+    "fields": {
+      "game_type": 3,
+      "title": "Final Fantasy 14",
+      "maker": "Square Enix",
+      "gamer": 1,
+      "number_of_players": 50,
+      "skill_level": 5
+    }
+  },
+  {
+    "model": "levelupapi.game",
+    "pk": 3,
+    "fields": {
+      "game_type": 1,
+      "title": "Dark Souls; The Board Game",
+      "maker": "FromSoftware",
+      "gamer": 1,
+      "number_of_players": 4,
+      "skill_level": 5
+    }
+  }
+]

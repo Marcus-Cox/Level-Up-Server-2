@@ -1,0 +1,24 @@
+[
+  {
+    "model": "levelupapi.event",
+    "pk": 1,
+    "fields": {
+      "game": 1,
+      "description": "Live Stream",
+      "date": "2022-11-7",
+      "time": "19:00",
+      "organizer": 1
+    }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+      "game": 2,
+      "description": "WWE Match",
+      "date": "2022-03-16",
+      "time": "13:00",
+      "organizer": 1
+    }
+  }
+]
